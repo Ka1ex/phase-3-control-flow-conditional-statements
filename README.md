@@ -204,10 +204,7 @@ switch (dog) {
 And in Ruby:
 
 ```rb
-# Ruby
-dog = "cuddly"
-
-case dog
+ 
 when "hungry"
   owner = "Refilling food bowl."
 when "thirsty"
